@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="0dp"
         android:gravity="center"
-        android:text="QUESTION 2"
+        android:text="QUESTION 3"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
         android:textColor="#F0025A" />
 
