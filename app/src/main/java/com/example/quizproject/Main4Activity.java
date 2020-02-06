@@ -40,7 +40,7 @@ public class Main4Activity extends AppCompatActivity {
 
                     Toast.makeText(Main4Activity.this,"WRONG ANSWER :( ",Toast.LENGTH_LONG).show();
                 }
-                Intent i =new Intent(Main4Activity.this,Main3Activity.class);
+                Intent i =new Intent(Main4Activity.this,Main5Activity.class);
                 startActivity(i);
 
             }
