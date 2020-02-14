@@ -12,7 +12,7 @@
 <h3>Group Members </h3>
 <br>1.HariPrasadputla  1896492</br>
 <br>2.K.Nithin Reddy   1896565</br>
-<br>3.k.Sai Krishna    1898370</br>
-<br>4.Parnay Varkala   1898497</br>
+<br>3.A.Sai Krishna    1898370</br>
+<br>4.Pranay Varkala   1898497</br>
 <br>5.Wasim            1898495</br>
 ==========================================================================
